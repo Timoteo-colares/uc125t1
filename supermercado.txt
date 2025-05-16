@@ -1,0 +1,12 @@
+RUSUMO SOBRE sistema de controle de validade de produtos do supermercado 
+Fui contratado para desenvolver um sistema de vendas para supermercados com um objetivo: ajudar no controle das validades dos alimentos. Garantir que os alimentos estejam dentro do prazo de validade para oferecer mais segurança e qualidade aos consumidores.
+
+Pensando nisso, criei uma solução prática que permite cadastrar produtos com suas informações básicas, como nome, categoria, preço, quantidade em estoque e, especialmente, um dado de validade. Dessa forma, é possível acompanhar quais alimentos estão próximos do vencimento, evitando desperdícios e problemas no atendimento.
+
+Além disso, o sistema também possibilita o gerenciamento dos clientes, facilitando um atendimento mais organizado e personalizado. Para as vendas, o sistema permite registrar as transações rapidamente, selecionando o cliente e os produtos, considerando os itens e atualizando o estoque automaticamente.
+
+Com um histórico detalhado das vendas realizadas, o supermercado pode analisar o desempenho do negócio, entender melhor o planejado dos clientes e planejar reposições com mais eficiência.
+
+Esse sistema foi pensado para funcionar diretamente no navegador, sem complicações de instalação ou servidores externos, usando uma tecnologia de armazenamento local para salvar os dados de forma segura entre as sessões.
+
+Minha missão com esta ferramenta é ajudar o supermercado a ganhar agilidade, controle e segurança na gestão de alimentos e vendas, promovendo uma operação mais eficiente e a satisfação dos clientes.
